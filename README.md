@@ -25,7 +25,7 @@ Currently focused on React, Node.js and MongoDB.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emirhan-bs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emirhan-bs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Currently focused on React, Node.js and MongoDB.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-bs&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-bs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -65,3 +65,7 @@ Currently focused on React, Node.js and MongoDB.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emirhanbuyuksenirli@gmail.com)
 
 ---
+
+### 🌐 Portfolio
+
+[![emirhanbuyuksenirli.com](https://img.shields.io/badge/🌐%20emirhanbuyuksenirli.com-8B5CF6?style=for-the-badge&logoColor=white)](https://emirhanbuyuksenirli.com)
