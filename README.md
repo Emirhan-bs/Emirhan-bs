@@ -1,6 +1,6 @@
 # Hi, I'm Emirhan 👋
 
-### Junior Full Stack Developer,
+### Full Stack Developer,
 
 I'm passionate about building clean web applications with modern technologies.
 Currently focused on React, Node.js and MongoDB.
